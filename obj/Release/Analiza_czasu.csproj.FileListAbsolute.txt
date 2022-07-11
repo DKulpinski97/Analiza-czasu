@@ -1,0 +1,10 @@
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\bin\Release\Analiza_czasu.exe.config
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\bin\Release\Analiza_czasu.exe
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\bin\Release\Analiza_czasu.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\obj\Release\Analiza_czasu.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\obj\Release\Analiza_czasu.Form1.resources
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\obj\Release\Analiza_czasu.Properties.Resources.resources
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\obj\Release\Analiza_czasu.csproj.GenerateResource.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\obj\Release\Analiza_czasu.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\obj\Release\Analiza_czasu.exe
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\analiza czasu\obj\Release\Analiza_czasu.pdb

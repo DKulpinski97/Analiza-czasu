@@ -1,0 +1,20 @@
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\bin\Debug\Analiza_czasu.exe.config
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\bin\Debug\Analiza_czasu.exe
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\bin\Debug\Analiza_czasu.pdb
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\obj\Debug\Analiza_czasu.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\obj\Debug\Analiza_czasu.Form1.resources
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\obj\Debug\Analiza_czasu.Properties.Resources.resources
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\obj\Debug\Analiza_czasu.csproj.GenerateResource.cache
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\obj\Debug\Analiza_czasu.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\obj\Debug\Analiza_czasu.exe
+C:\Users\Dawid\OneDrive\Pulpit\magisterka\Analiza_czasu_1\Analiza_czasu\obj\Debug\Analiza_czasu.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\bin\Debug\Analiza_czasu.exe.config
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\bin\Debug\Analiza_czasu.exe
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\bin\Debug\Analiza_czasu.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\obj\Debug\Analiza_czasu.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\obj\Debug\Analiza_czasu.Form1.resources
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\obj\Debug\Analiza_czasu.Properties.Resources.resources
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\obj\Debug\Analiza_czasu.csproj.GenerateResource.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\obj\Debug\Analiza_czasu.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\obj\Debug\Analiza_czasu.exe
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\analiza czasu\obj\Debug\Analiza_czasu.pdb
